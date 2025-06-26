@@ -4,18 +4,15 @@ Hi there! I'm Andrea, a passionate developer with a love for coding and creating
 
 ## GitHub Stats
 
-<table align="center">
-  <tr>
-    <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=andrea11&show_icons=true&theme=transparent" />
-      </a>
-    </td>
-    <td>
-      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrea11&layout=compact&theme=transparent" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=andrea11&show_icons=true&theme=transparent" />
+    </a>
+</p>
+<br>
+<p align="center">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrea11&layout=compact&theme=transparent" />
+</p>
 
 ## Contact Me
 
