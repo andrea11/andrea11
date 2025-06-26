@@ -4,25 +4,18 @@ Hi there! I'm Andrea, a passionate developer with a love for coding and creating
 
 ## GitHub Stats
 
-<style>
-  .flex {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-wrap: wrap;
-    gap: 2rem;
-  }
-</style>
-<div class="flex">
-    <div>
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=andrea11&show_icons=true&theme=transparent" />
-        </a>
-    </div>
-    <div>
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrea11&layout=compact&theme=transparent" />
-    </div>
-</div>
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/anuraghazra/github-readme-stats">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=andrea11&show_icons=true&theme=transparent" />
+      </a>
+    </td>
+    <td>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrea11&layout=compact&theme=transparent" />
+    </td>
+  </tr>
+</table>
 
 ## Contact Me
 
